@@ -1,12 +1,2 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+I wrote this project in BlueJ while I was in high school. I wanted to prepare for a Lockheed Martin coding competition, so I completed this project on my own time. The program can accurately solve any Sudoku puzzle. I worked on it for over a month, experimenting with different solutions and trying to teach myself how to solve the problem. I got to the point where the program could solve a few Sudoku puzzles but was too inefficient (timed out) for larger puzzles. In the end I ended up experimenting with functions that called themselves, and I taught myself recursion. This was the last tool I needed to solve the problem.
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
