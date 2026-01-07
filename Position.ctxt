@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Position
+comment1.params=row\ col
+comment1.target=Position(int,\ int)
+comment2.params=
+comment2.target=int\ getRow()
+comment3.params=
+comment3.target=int\ getCol()
+comment4.params=
+comment4.target=int\ getSqr()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
